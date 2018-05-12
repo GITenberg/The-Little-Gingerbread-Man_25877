@@ -1,0 +1,35 @@
+_repo: The-Little-Gingerbread-Man_25877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Herbert, Robert Gaston
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '31635'
+    url: http://www.gutenberg.org/2009/agents/31635
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, George Haven
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '4082'
+    url: http://www.gutenberg.org/2009/agents/4082
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Gingerbread men -- Juvenile fiction'
+title: The Little Gingerbread Man
+url: http://www.gutenberg.org/ebooks/25877
